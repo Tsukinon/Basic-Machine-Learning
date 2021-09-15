@@ -1,1 +1,1 @@
-Volume gesture control
+Volume Gesture Control
